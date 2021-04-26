@@ -1,0 +1,57 @@
+.box {
+  font-family: "MaisonNeue", "Segoe UI", "Helvetica Neue", -apple-system,
+    system-ui, BlinkMacSystemFont, Roboto, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-weight: inherit;
+  font-size: 18px;
+  line-height: 140%;
+  width: 700px;
+  padding: 10px;
+  align: center;
+  border: 2px solid gray;
+  margin: 10;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+.info {
+  position: relative;
+  left: 80px;
+  top: 2px;
+}
+
+.nav {
+}
+
+.button {
+  border-width: 0px;
+  background-color: transparent;
+}
+
+.header {
+  padding: 17px;
+  text-align: center;
+  background: #4042422d;
+  color: white;
+  font-size: 28px;
+}
+
+.buttom {
+  padding: 17px;
+  text-align: center;
+  background: #4042422d;
+  color: white;
+  font-size: 22px;
+}
+
+.share {
+}
+
+em {
+  color: rgb(255, 60, 0);
+  font-style: normal;
+}
+strong {
+  font-weight: bold;
+}
