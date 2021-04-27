@@ -48,6 +48,9 @@
 .share {
 }
 
+.iframe {
+  text-align: center;
+}
 em {
   color: rgb(255, 60, 0);
   font-style: normal;
