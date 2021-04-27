@@ -1,3 +1,11 @@
+
+body{
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+
 .box {
   font-family: "MaisonNeue", "Segoe UI", "Helvetica Neue", -apple-system,
     system-ui, BlinkMacSystemFont, Roboto, Arial, sans-serif,
@@ -24,6 +32,8 @@
 .nav {
 }
 
+
+
 .button {
   border-width: 0px;
   background-color: transparent;
@@ -43,13 +53,15 @@
   background: #4042422d;
   color: white;
   font-size: 22px;
+  margin-top: auto;
 }
 
 .share {
 }
 
 .iframe {
-  text-align: center;
+  text-align: left;
+
 }
 em {
   color: rgb(255, 60, 0);
